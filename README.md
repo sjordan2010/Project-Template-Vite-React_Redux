@@ -17,3 +17,4 @@ JWT_SECRET = [Whatever string/number combination you want here, don't include br
 
 5. cd into Frontend and install dependencies:
    npm install
+6. cd back into main folder and run 'npm run dev'
